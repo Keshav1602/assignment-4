@@ -12,6 +12,7 @@ body{
     background-color: rgba(119, 189, 113, 0.69);
     background-repeat:no-repeat ;
     background-size: cover;
+    hight:1000px;
     background-image: url(https://images.pexels.com/photos/129731/pexels-photo-129731.jpeg?auto=compress&cs=tinysrgb&w=600);
 }
 label{
